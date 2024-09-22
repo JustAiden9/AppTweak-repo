@@ -10,11 +10,6 @@
             "name": "EU Enabler",
             "description": "17.4.x working on",
             "url": "https://github.com/CODENAME-Tweaks/AppTweak-repo/raw/refs/heads/main/euenabler.tweak"
-        },
-        {
-            "name": "Spotify++",
-            "description": "Test 2",
-            "url": "https://github.com/CODENAME-Tweaks/AppTweak-repo/raw/refs/heads/main/SpotifyTest3.tweak"
         }
     ]
 }
