@@ -9,7 +9,7 @@
                 {
             "name": "EU Enabler",
             "description": "17.4.x working on",
-            "url": "https://github.com/CODENAME-Tweaks/example-tweak/releases/download/Release/example-tweak.tweak"
+            "url": "https://github.com/CODENAME-Tweaks/AppTweak-repo/raw/refs/heads/main/euenabler.tweak"
         }
     ]
 }
