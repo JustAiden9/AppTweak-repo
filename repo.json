@@ -2,14 +2,9 @@
     "name": "AppTweak Repo",
     "repo": [
         {
-            "name": "MC 3D Skin",
+            "name": "YTLite",
             "description": "example 3d mc skin",
-            "url": "https://github.com/CODENAME-Tweaks/example-tweak/releases/download/Release/example-tweak.tweak"
-        },
-        {
-            "name": "EU Enabler",
-            "description": "17.4.x working on",
-            "url": "https://github.com/CODENAME-Tweaks/AppTweak-repo/raw/refs/heads/main/euenabler.tweak"
+            "url": "https://github.com/JustAiden9/example-tweak/releases/download/v1/YTLite.tweak"
         }
     ]
 }
