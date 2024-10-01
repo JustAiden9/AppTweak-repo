@@ -4,12 +4,7 @@
         {
             "name": "App Test Adding (Run YTLite Below First!)",
             "description": "Run YTLite (BELOW) then this to make it work!",
-            "url": "https://github.com/JustAiden9/YTLitePlus-SparseRestore/releases/download/v0.2.1/apptest.tweak"
-        },
-        {
-            "name": "YTLite",
-            "description": "YouTube Lite Plus Tweak for sparserestore!",
-            "url": "https://github.com/JustAiden9/YTLitePlus-SparseRestore/releases/download/v0.2/YTLite.tweak"
+            "url": "https://github.com/JustAiden9/YTLitePlus-SparseRestore/releases/download/v0.2.2/YTLite.tweak"
         }
     ]
 }
