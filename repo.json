@@ -1,10 +1,14 @@
 {
-    "name": "YTLite Plus Sparse Store Concept",
+    "name": "JustAidens Repo",
     "repo": [
         {
             "name": "YTLite Plus Tweak",
             "description": "Testing _CodeSignature File",
             "url": "https://github.com/JustAiden9/YTLitePlus-SparseRestore/releases/download/v0.2.2/YTLite.tweak"
-        }
+        },
+        {
+            "name": "YTMusicUltimate Tweak YTMusic Version 7.21",
+            "description": "Smth",
+            "url": "https://github.com/JustAiden9/YTMusicUltimate-SparseRestore/releases/download/v0.1/YTMusic.tweak"
     ]
 }
